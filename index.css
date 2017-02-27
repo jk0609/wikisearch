@@ -1,0 +1,29 @@
+body{
+  background-color: #34B7CD;
+}
+h1{
+  color: #36383E;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px #7F828B;
+}
+#randomBut{
+  color: #36383E;
+  font-weight: bold;
+}
+#mainDiv{
+  font-family: Oswald, sans-serif;
+  text-align: center;
+}
+#searchInp{
+  border-style: solid;
+  border-width: 4px;
+  border-color: #34B7CD;
+  border-radius: 8px;
+  padding-left: 5px;
+}
+.result{
+  text-align: left;
+  margin:5px 20% -1% 20%;
+  background-color: #34B7CD;
+  color: #36383E;
+}
